@@ -1,2 +1,2 @@
 # Estudos-Dev
-Iniciando meus estudos
+Iniciando meus estudos.
