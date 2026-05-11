@@ -10,3 +10,8 @@ console.log("terceiroValor:", terceiroValor);
 
 terceiroValor = 100;
 console.log("terceiroValor final:", terceiroValor);
+
+let nome = "Manuela";
+
+nome = "Manu";
+console.log(`Nome da minha filha: ${nome}`);
